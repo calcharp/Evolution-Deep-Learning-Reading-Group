@@ -21,4 +21,4 @@ Click the [Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScPVSTP80DcOLT
 
 If you want to share any resources with the group, like a paper or textbook, for example, please put it in the shared resources folder.
 
-
+If you have a hyperlink or something similar to share, that isn't an uploadable file, please put it in links.md, with a reasonable ### title over it, so people can easily find it later.
