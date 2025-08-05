@@ -17,4 +17,8 @@ View the current schedule here: [Google Sheets Schedule](https://docs.google.com
 
 Click the [Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScPVSTP80DcOLTd-GD0oKny_pHWmbM2Nj1VUlsyx8cFgrPNCw/viewform?usp=header) to add your name and paper. Your submission will automatically update the schedule.
 
- 
+## Shared Resources
+
+If you want to share any resources with the group, like a paper or textbook, for example, please put it in the shared resources folder.
+
+
