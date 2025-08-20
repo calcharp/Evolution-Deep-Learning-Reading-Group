@@ -13,9 +13,13 @@ We meet **every two weeks on Fridays at 11:00 AM ET**.
 
 View the current schedule here: [Google Sheets Schedule](https://docs.google.com/spreadsheets/d/1uqp2_1peLV_NcHBIz04vkFiuoQcicO3cGsC2C95oI6k/edit?resourcekey=&gid=969815788#gid=969815788)
 
-## To Sign Up
+## Sign up to Present
 
 Click the [Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScPVSTP80DcOLTd-GD0oKny_pHWmbM2Nj1VUlsyx8cFgrPNCw/viewform?usp=header) to add your name and paper. Your submission will automatically update the schedule.
+
+Sign up for Email Reminders
+
+Add your email address to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHmoINx9zeFMIkfOXSzP__ZgRImnE_tXe8r7QexDbITwr1CQ/viewform?usp=header) to sign up for biweekly reminders that the readning group meeting is coming up.
 
 ## Shared Resources
 
