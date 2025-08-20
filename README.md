@@ -23,6 +23,6 @@ Add your email address to [this form](https://docs.google.com/forms/d/e/1FAIpQLS
 
 ## Shared Resources
 
-If you want to share any resources with the group, like a paper or textbook, for example, please put it in the `Shared Resources\files` folder.
+If you want to share any resources with the group, like a paper or textbook, for example, please put it in the `Shared Resources/files` folder.
 
 If you have a hyperlink or something similar to share, that isn't an uploadable file, please put it in links.md, with a reasonable `###` title over it, so people can easily find it later.
