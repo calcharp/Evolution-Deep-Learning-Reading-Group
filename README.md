@@ -7,7 +7,7 @@ Welcome to the Evolution & Deep Learning Reading Group!
 
 ## Meeting Schedule
 
-We meet **every two weeks on Fridays at 11:00 AM ET**.
+We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 
 **Zoom Link**: [Join Meeting](https://virginiatech.zoom.us/j/86992753213)
 
