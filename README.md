@@ -2,24 +2,13 @@
 
 Welcome to the Evolution & Deep Learning Reading Group! 
 
-
-
-
-## Meeting Schedule
+## 🗓️ Meeting Schedule
 
 We meet **every two weeks on Wednesdays at 11:00 AM ET**.
-
-**Zoom Link**: [Join Meeting](https://virginiatech.zoom.us/j/86992753213)
-
-View the current schedule here: [Google Sheets Schedule](https://docs.google.com/spreadsheets/d/1uqp2_1peLV_NcHBIz04vkFiuoQcicO3cGsC2C95oI6k/edit?resourcekey=&gid=969815788#gid=969815788)
-
-## Sign up to Present
-
-Click the [Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScPVSTP80DcOLTd-GD0oKny_pHWmbM2Nj1VUlsyx8cFgrPNCw/viewform?usp=header) to add your name and paper. Your submission will automatically update the schedule.
-
-## Sign up for Email Reminders
-
-Add your email address to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeHmoINx9zeFMIkfOXSzP__ZgRImnE_tXe8r7QexDbITwr1CQ/viewform?usp=header) to sign up for biweekly reminders that the readning group meeting is coming up.
+- 🔗 [Join Zoom Meeting](https://virginiatech.zoom.us/j/86992753213)
+- 📄 [View Schedule (Google Sheet)](https://docs.google.com/spreadsheets/d/1uqp2_1peLV_NcHBIz04vkFiuoQcicO3cGsC2C95oI6k/edit?resourcekey=&gid=969815788#gid=969815788)
+- ✍️ [Sign Up to Present](https://docs.google.com/forms/d/e/1FAIpQLScPVSTP80DcOLTd-GD0oKny_pHWmbM2Nj1VUlsyx8cFgrPNCw/viewform?usp=header)
+- 📧 [Sign Up for Email Reminders](https://docs.google.com/forms/d/e/1FAIpQLSeHmoINx9zeFMIkfOXSzP__ZgRImnE_tXe8r7QexDbITwr1CQ/viewform?usp=header)
 
 
 <details open>
