@@ -1,4 +1,4 @@
-# Evolution Deep Learning Reading Group
+# Evolutionary Biology + Deep Learning Reading Group
 
 Welcome to the Evolution & Deep Learning Reading Group! 
 
