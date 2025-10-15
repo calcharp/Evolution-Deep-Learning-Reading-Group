@@ -28,13 +28,12 @@ We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 
 ## 📚 [Shared Resources](https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources)
 
-Add any shared materials (papers, slides, notes, etc., that aren't the paper being presented) directly to the [Shared Resources](https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources) folder in the repository.  
+Add any shared materials (papers, slides, notes, etc., that aren't the paper being presented) directly to the [Shared Resources](https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources) folder.
 
 You can also include external links or demos below:
+- [Phylo-Diffusion Page](https://imageomics.github.io/phylo-diffusion/)
 - [BioCLIP v2 Demo](https://huggingface.co/spaces/imageomics/bioclip-2-demo)
-
-
-
+- [LLM-Mutate](https://llm-mutate.cs.columbia.edu/#method)
 
 
 
