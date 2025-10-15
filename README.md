@@ -11,6 +11,8 @@ We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 - 📧 [Sign Up for Email Reminders](https://docs.google.com/forms/d/e/1FAIpQLSeHmoINx9zeFMIkfOXSzP__ZgRImnE_tXe8r7QexDbITwr1CQ/viewform?usp=header)
 
 
+## 🧾 Past Meetings
+
 <details open>
 <summary><strong>2025 Meetings</strong></summary>
 
@@ -24,13 +26,13 @@ We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 
 </details>
 
-## Shared Resources
+## 📚 [Shared Resources](https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources)
 
-If you want to share any resources with the group, like a paper or textbook, for example, please put it in the `Shared Resources/files` folder.
+Add any shared materials (papers, slides, notes, etc., that aren't the paper being presented) directly to the [Shared Resources](https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources) folder in the repository.  
 
-If you have a hyperlink or something similar to share, that isn't an uploadable file, you can put it below:
+You can also include external links or demos below:
+- [BioCLIP v2 Demo](https://huggingface.co/spaces/imageomics/bioclip-2-demo)
 
-[BioCLIP v2 Demo](https://huggingface.co/spaces/imageomics/bioclip-2-demo)
 
 
 
