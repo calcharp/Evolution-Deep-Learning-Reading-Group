@@ -25,7 +25,7 @@ We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 
 </details>
 
-## 📚 <a href="https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources" target="_blank">Shared Resources</a>
+## 📚 Shared Resources
 
 Add any shared materials (papers, slides, notes, etc., that aren't the paper being presented) directly to the <a href="https://github.com/calcharp/Evolution-Deep-Learning-Reading-Group/tree/main/Shared%20Resources" target="_blank">Shared Resources</a> folder.
 
