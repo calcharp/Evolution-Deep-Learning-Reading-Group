@@ -36,5 +36,6 @@ You can also include external links or demos below:
 - [LLM-Mutate](https://llm-mutate.cs.columbia.edu/#method)
 
 
-
+## 📬 Contact the Organizer
+Caleb Charpentier — calebc22 [at] vt [dot] edu — [calebcharpentier.com](https://calebcharpentier.com/)
 
