@@ -22,7 +22,7 @@ We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 | Mridul Khurana | September 3, 2025 | <a href="https://drive.google.com/file/d/1oj6h62g5zUjVQ5QmmRkYyKe-bQzmdeNc/view?usp=drive_link" target="_blank">Hierarchical Conditioning of Diffusion Models Using Tree-of-Life for Studying Species Evolution</a> | — |
 | Caleb Charpentier | October 1, 2025 | <a href="https://drive.google.com/file/d/1f_gBWdMPrb1Iz5iAL8VLCPWba81XTCCn/view" target="_blank">BIOCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning</a> | — |
 | Roberta Hunt | October 15, 2025 | <a href="https://drive.google.com/file/d/1cAHLvxd4Jg4zXVFWARj1NUWEwnt9m1G3/view" target="_blank">Evolving Interpretable Visual Classifiers with Large Language Models</a> | <a href="https://virginiatech.zoom.us/rec/share/jHMOtbAwc2gFEPPAHByUUF5_8cAxK8C72pMc7JY7obMixWK6ju55A7qsQVkOqy2P.6lyoS_iwn_ymeOPM" target="_blank">Zoom Recording</a> |
-| Caleb Charpentier | Novermber 12, 2025 | <a href="https://drive.google.com/file/d/1cAHLvxd4Jg4zXVFWARj1NUWEwnt9m1G3/view" target="_blank">Descriptron: Artificial intelligence for automating taxonomic  species descriptions with a user-friendly software package</a> | - |
+| Caleb Charpentier | Novermber 12, 2025 | <a href="https://drive.google.com/open?id=1PdRjuvMcE8me8KBvIBFPr-lyS0wkCEre" target="_blank">Descriptron: Artificial intelligence for automating taxonomic  species descriptions with a user-friendly software package</a> | - |
 </details>
 
 ## 📚 Shared Resources
