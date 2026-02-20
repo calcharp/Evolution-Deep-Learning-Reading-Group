@@ -17,8 +17,7 @@ We meet **every two weeks on Wednesdays at 11:00 AM ET**.
 
 | Presenter | Date | Title | Recording |
 |------------|------|--------|------------|
-| Caleb Charpentier | August 1, 2025 | <a href="https://drive.google.com/open?id=15oF2TOC0AB_zRyOprx4RzlfRpISjPVt5" target="_blank">Identifying variation in dinosaur footprints and classifying
-problematic specimens via unbiased unsupervised machine learning</a> | — |
+| Caleb Charpentier | August 1, 2025 | <a href="https://drive.google.com/open?id=15oF2TOC0AB_zRyOprx4RzlfRpISjPVt5" target="_blank">Identifying variation in dinosaur footprints and classifying problematic specimens via unbiased unsupervised machine learning</a> | — |
 </details>
 
 
