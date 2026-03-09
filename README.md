@@ -18,9 +18,7 @@ We meet **every two weeks on Wednesdays at 3:00 PM ET**.
 | Presenter | Date | Title | Recording |
 |------------|------|--------|------------|
 | Caleb Charpentier | February 25, 2026 | <a href="https://drive.google.com/open?id=15oF2TOC0AB_zRyOprx4RzlfRpISjPVt5" target="_blank">Identifying variation in dinosaur footprints and classifying problematic specimens via unbiased unsupervised machine learning</a> | — |
-| Caleb Charpentier | February 25, 2026 | <a href="https://drive.google.com/open?id=1NpuYfJoYyiwQqGY9jutJMzlosJtz_oHr" target="_blank">A deep learning approach for morphological feature extraction
-based on variational auto-encoder: an application to mandible
-shape</a> | — |
+| Caleb Charpentier | February 25, 2026 | <a href="https://drive.google.com/open?id=1NpuYfJoYyiwQqGY9jutJMzlosJtz_oHr" target="_blank">A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape</a> | — |
 </details>
 
 
