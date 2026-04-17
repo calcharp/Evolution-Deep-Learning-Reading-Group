@@ -20,6 +20,7 @@ We meet **every two weeks on Wednesdays at 3:00 PM ET**.
 | Caleb Charpentier | February 25, 2026 | <a href="https://drive.google.com/open?id=15oF2TOC0AB_zRyOprx4RzlfRpISjPVt5" target="_blank">Identifying variation in dinosaur footprints and classifying problematic specimens via unbiased unsupervised machine learning</a> | — |
 | Caleb Charpentier | March 11, 2026 | <a href="https://drive.google.com/open?id=1NpuYfJoYyiwQqGY9jutJMzlosJtz_oHr" target="_blank">A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape</a> | — |
 | Arthur Porto | April 1, 2026 | <a href="" target="_blank">ATLAS Demo</a> | — |
+| Caleb Charpentier | April 22, 2026 | <a href="https://drive.google.com/open?id=1Ke09x6Nj_fbM5Aji9o3naUis2sxyQiv2" target="_blank">Disentangling genotype  and environment specific  latent features for improved  trait prediction using a  compositional autoencoder</a> | — |
 </details>
 
 
